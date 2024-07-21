@@ -25,8 +25,7 @@ We are passing 4 parameters in this function :-
 2. The target dataset
 3. `test_size` : By default it's .25, which means 25% of the dataset will be used for testing and the other 75% for the training.
 4. `random_state` : This is to make sure that our data split remains same during every execution.
-
-
+<br>
 #### 4. Training the model
 Here, we are creating a model of `LogisticRegression()` class. 
 
